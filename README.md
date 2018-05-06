@@ -8,6 +8,6 @@ The screen saver background is the users' current desktop background and the (fl
 2.Create a new plain white image for background<br/>
 3.Set the new image as desktop wallpaper<br/>
 4.Take a screenshot of the desktop and save it.<br/>
-5.Restore the desktop wallpaper.<br/>
+5.Restore the desktop wallpaper.(Using java-native-acces library https://github.com/java-native-access/jna)<br/>
 6.Process the screen shot to identify desktop icons.<br/>
 7.add icons to the java.awt.window as jpanels.<br/>
